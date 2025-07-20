@@ -1,0 +1,6 @@
+Enter target IP address: 127.0.0.1
+Scanning 127.0.0.1...
+
+Port 22 is OPEN
+Port 80 is OPEN
+Port 443 is OPEN
